@@ -53,7 +53,7 @@ name: Wind # optional
 - Tap the speed, the gust or the dial to open that sensor's history.
 - In a sections dashboard the card defaults to half width and can be resized.
 
-## Colours
+## Colors
 
 The dial stays dark on light and dark themes, like an instrument. Override any colour from a theme or with card-mod:
 
